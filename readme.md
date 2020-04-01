@@ -2,4 +2,4 @@
 
 # Moje wyniki haszówek
 
-![Zdjęcie projektu ](haszowki_wykres.png "fig:") [fig:my~l~abel]
+![Zdjęcie projektu ](haszowki_wykres.PNG "fig:") [fig:my~l~abel]
