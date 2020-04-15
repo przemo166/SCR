@@ -18,4 +18,5 @@ Moje wyniki haszówek
 | 12  | 3  | 
 | 13  | 6  | 
 
-![Zdjęcie projektu ](haszowki_wykres.PNG "fig:") [fig:my~l~abel]
+![Test Image 1](haszowki_wykres.PNG)
+
